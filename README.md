@@ -15,14 +15,14 @@
 
 <table width="100">
 <tr>
+     <td align='center'>
+        <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/HTML5-900x0.jpg" alt="HTML"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="https://th.bing.com/th/id/OIP.fKtEA6VSuCPh0nCy2VTnZQHaE8?pid=ImgDet&rs=1" alt="CSS"  width="150px" height="100px">
+    </td>
     <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" width="150px" height="100px">
-    </td>
-    <td align='center' width="190">
-        <img src="https://miro.medium.com/v2/resize:fit:1358/1*moJeTvW97yShLB7URRj5Kg.png" alt="Typescript" width="150px" height="100px">
-    </td>
-     <td align='center' width="190">
-        <img src="https://camo.githubusercontent.com/b5f27aefb15ecab7e73bca90e0fb115ab4102bd1b31c29eb110d90113862dd94/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632323030383732323232372f5265734e63775a7970682e706e67" alt="React-JS" width="150px" height="100px">
     </td>
      <td align='center' width="190">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_JDu_lZiABnyOGnMJMqoGkksKziIIJuEnN4rSkZ6Lf4kCTlVW5HZd8SHFyXIizSj_xE&usqp=CAU" alt="Git" width="150px" height="100px">
@@ -49,11 +49,11 @@
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://geekofcoding.files.wordpress.com/2020/09/images.png" alt="HTML"  width="150px" height="100px">
+    <td align='center' width="190">
+        <img src="https://camo.githubusercontent.com/b5f27aefb15ecab7e73bca90e0fb115ab4102bd1b31c29eb110d90113862dd94/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632323030383732323232372f5265734e63775a7970682e706e67" alt="React-JS" width="150px" height="100px">
     </td>
-    <td align='center'>
-        <img src="https://th.bing.com/th/id/OIP.fKtEA6VSuCPh0nCy2VTnZQHaE8?pid=ImgDet&rs=1" alt="CSS"  width="150px" height="100px">
+    <td align='center' width="190">
+        <img src="https://miro.medium.com/v2/resize:fit:1358/1*moJeTvW97yShLB7URRj5Kg.png" alt="Typescript" width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png" alt="Heroku"  width="150px" height="100px">
