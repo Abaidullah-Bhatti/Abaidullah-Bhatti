@@ -22,13 +22,13 @@
         <img src="https://th.bing.com/th/id/OIP.fKtEA6VSuCPh0nCy2VTnZQHaE8?pid=ImgDet&rs=1" alt="CSS"  width="150px" height="100px">
     </td>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" width="150px" height="100px">
+        <img src="https://cdn-icons-png.flaticon.com/512/5074/5074297.png" alt="Saas" width="150px" height="100px">
     </td>
      <td align='center' width="190">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_JDu_lZiABnyOGnMJMqoGkksKziIIJuEnN4rSkZ6Lf4kCTlVW5HZd8SHFyXIizSj_xE&usqp=CAU" alt="Git" width="150px" height="100px">
+        <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png" alt="Bootstrap" width="150px" height="100px">
     </td>
      <td align='center' width="190">
-        <img src="https://alexsaveau.dev/assets/firebase/firestore-banner.png" alt="Cloud-Firestore" width="150px" height="100px">
+        <img src="https://logowik.com/content/uploads/images/git6963.jpg" alt="Git" width="150px" height="100px">
     </td>
 </tr>
 <tr>
