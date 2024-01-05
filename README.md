@@ -128,7 +128,7 @@
 <p align="center">
 <a href="https://ahmad-jajja.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-ahmadjajja.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://pk.linkedin.com/in/abaidullah-bhatti-23ba8925b"_blank"><img src="https://img.shields.io/badge/-Ahmad%20Jajja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ahmadjajja86@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ahmadjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:abaidullahbhatti751@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ahmadjamm-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   
  ## Some Community Projects & Resources
 
