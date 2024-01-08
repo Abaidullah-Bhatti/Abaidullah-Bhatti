@@ -67,7 +67,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://th.bing.com/th/id/R.6710f0d23dc0341c696ada0274d5bc25?rik=N75aHNWr2X0yRw&pid=ImgRaw&r=0" alt="Graph-QL"  width="150px" height="100px">
+        <img src="https://images.app.goo.gl/HaPmiP7nhCz1jkGS7" alt="Graph-QL"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://camo.githubusercontent.com/f5f99ac45e661ee1e97a71bd6bb8679c4def6bc656d3e05824fb67fe2f417300/68747470733a2f2f7777772e61727469636c65737468656d652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f72656163742d6e61746976652d312d312e706e67" alt="React-Native"  width="150px" height="100px">
