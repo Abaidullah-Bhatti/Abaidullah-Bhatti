@@ -33,7 +33,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://camo.githubusercontent.com/2419756223b10dfc0776df6b85a025b100a64dd3d994a412d501bbbc16ca89bf/68747470733a2f2f7777772e6c6f6769637261797361636164656d792e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30342f707974686f6e2d70726f6772616d6d696e672e706e67" alt="Python"  width="150px" height="100px">
+        <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="Javascript"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://camo.githubusercontent.com/c0f29035c6709cf027b760604063e14e94308d2a979862926f900311fb78f44a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64392f4e6f64652e6a735f6c6f676f2e7376672f3132303070782d4e6f64652e6a735f6c6f676f2e7376672e706e67" alt="Node-JS"  width="150px" height="100px">
