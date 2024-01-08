@@ -36,16 +36,16 @@
         <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="Javascript"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://camo.githubusercontent.com/c0f29035c6709cf027b760604063e14e94308d2a979862926f900311fb78f44a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64392f4e6f64652e6a735f6c6f676f2e7376672f3132303070782d4e6f64652e6a735f6c6f676f2e7376672e706e67" alt="Node-JS"  width="150px" height="100px">
+        <img src="https://miro.medium.com/v2/resize:fit:1200/0*OJAUWZoGbVq--rNd.png" alt="TypeScript"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://th.bing.com/th/id/OIP.i2fRBk3GsYLeUk_Rh7AzHwHaDP?pid=ImgDet&rs=1" alt="Express-JS"  width="150px" height="100px">
+        <img src="https://logos-world.net/wp-content/uploads/2023/08/React-Symbol.png" alt="React-Js"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://th.bing.com/th/id/R.f5536d8506ff23b074be837dec4db586?rik=xAX1XS%2b4l4Njqw&riu=http%3a%2f%2fbedford-computing.co.uk%2flearning%2fwp-content%2fuploads%2f2015%2f10%2fMongoDB_Logo.png&ehk=rVkEhJ1SJNUrFOuI4jrdpUFcG0QvTTNDf4FPO%2b49q2I%3d&risl=&pid=ImgRaw&r=0" alt="Mongo-DB"  width="150px" height="100px">
+        <img src="https://www.visual-craft.com/static/86b4a37121c83372d45b5f4878caccf1/e018d/React_Native_2_c5ab49be9b.png" alt="React-Native"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://th.bing.com/th/id/OIP.x8LjUUpPNMwrutD5mee2pwHaDy?pid=ImgDet&rs=1" alt="Firebase"  width="150px" height="100px">
+        <img src="https://solidstudio.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Flofvu8al%2Fproduction%2F915aa873ca2e568f347fd579430ef38dd18cd8f3-420x308.png&w=1080&q=75" alt="Node-Js"  width="150px" height="100px">
     </td>
 </tr>
 <tr>
