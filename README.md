@@ -50,19 +50,19 @@
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://camo.githubusercontent.com/b5f27aefb15ecab7e73bca90e0fb115ab4102bd1b31c29eb110d90113862dd94/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632323030383732323232372f5265734e63775a7970682e706e67" alt="React-JS" width="150px" height="100px">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-angularjs-1175205.png" alt="Angular-JS" width="150px" height="100px">
     </td>
     <td align='center' width="190">
-        <img src="https://miro.medium.com/v2/resize:fit:1358/1*moJeTvW97yShLB7URRj5Kg.png" alt="Typescript" width="150px" height="100px">
+        <img src="https://files.readme.io/86176b7-vuejs.png" alt="Vue-Js" width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png" alt="Heroku"  width="150px" height="100px">
+        <img src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png" alt="Express-Js"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS-CODE"  width="150px" height="100px">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/electronjs_logo_icon_169208.png" alt="Electron-Js"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://th.bing.com/th/id/R.9ae8ceaa543d93d321a63d4f6f1b120d?rik=sL69WLL1AqP7vQ&pid=ImgRaw&r=0" alt="Postman"  width="150px" height="100px">
+        <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="Next-Js"  width="150px" height="100px">
     </td>
 </tr>
 <tr>
