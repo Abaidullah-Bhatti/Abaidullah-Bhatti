@@ -76,10 +76,10 @@
         <img src="https://hamnus.com/wp-content/uploads/2023/07/Data-Structures-and-Algorithm.png" alt="Data-Structures"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://www.c-sharpcorner.com/article/create-github-repository-and-add-newexisting-project-using-github-desktop/Images/github.png" alt="Github"  width="150px" height="100px">
+        <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" alt="Mongo-DB"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://th.bing.com/th/id/OIP.g1Zva-rl0GUFFB-_AqyrnAHaFC?pid=ImgDet&rs=1" alt="SASS"  width="150px" height="100px">
+        <img src="https://i.pinimg.com/564x/09/63/a6/0963a6051212c3268e25d640c0410583.jpg" alt="Fire-Base"  width="150px" height="100px">
     </td>
 </tr>
 <tr>
