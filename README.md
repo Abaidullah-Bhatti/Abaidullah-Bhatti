@@ -14,6 +14,12 @@
 <h2><i>💻 Technology Stack and Tool's</i></h2>
 
 <table width="100">
+	<style>
+		td {
+			width : 200px;
+			height : 200px;
+		}
+	</style>
 <tr>
      <td align='center'>
         <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/HTML5-900x0.jpg" alt="HTML"  width="150px" height="100px">
