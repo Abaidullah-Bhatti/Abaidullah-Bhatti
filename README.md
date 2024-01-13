@@ -84,16 +84,16 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://th.bing.com/th/id/R.dac3406fc708c69390f478b5ee16e0fc?rik=%2fEYRaMVNx0jllw&pid=ImgRaw&r=0" alt="Bootstrap 5"  width="150px" height="100px">
+        <img src="https://lh3.googleusercontent.com/VP9kvg4vsdn1lbujSFPvfTdulnAGIll6ylgExa-mODyeI643fgYPodK68NjLHzahRfKA9Nae71CYuldTGUYn6w" alt="cloud firestore"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://miro.medium.com/v2/resize:fit:800/1*8hhfdEqRkRQSaJrJlx60zg.png" alt="Chakra-UI"  width="150px" height="100px">
+        <img src="https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1-1024x512.png" alt="Git-Hub"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://www.qbssoftware.de/wp-content/uploads/2022/07/JetBrains-Intellij-IDEA.png" alt="IntelliJ IDEA"  width="150px" height="100px">
+        <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072016/untitled-1_16.png?itok=B4o_2UCy" alt="Linux"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://th.bing.com/th/id/OIP.rQ0TiypgG55Wz4Bq0RXnzAHaEK?pid=ImgDet&rs=1" alt="Linux"  width="150px" height="100px">
+        <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="VS Code"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://camo.githubusercontent.com/a769c0730c35b7533032dc86ee2505ff006d5cdf5f0eb40279a446fae2124b08/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f7072656d69756d2f706e672d3235362d7468756d622f736373732d332d3233363239342e706e67" alt="SCSS"  width="150px" height="100px">
