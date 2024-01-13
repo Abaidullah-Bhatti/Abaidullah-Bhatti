@@ -96,28 +96,9 @@
         <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="VS Code"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://camo.githubusercontent.com/a769c0730c35b7533032dc86ee2505ff006d5cdf5f0eb40279a446fae2124b08/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f7072656d69756d2f706e672d3235362d7468756d622f736373732d332d3233363239342e706e67" alt="SCSS"  width="150px" height="100px">
+        <img src="https://w7.pngwing.com/pngs/47/961/png-transparent-multimedia-software-adobe-dreamweaver-system-computer-adobe-family-software-icon.png" alt="dobe Dreamweaver"  width="150px" height="100px">
     </td>
 </tr>
-
-<tr>
-    <td align='center'>
-        <img src="https://camo.githubusercontent.com/a744f5d898da2607eec5c2639c4946136b5709b9ab4dbb43d7fb5086679e989f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f435f50726f6772616d6d696e675f4c616e67756167652e7376672f36343070782d435f50726f6772616d6d696e675f4c616e67756167652e7376672e706e67" alt="C"  width="150px" height="100px">
-    </td>
-    <td align='center' width="190">
-        <img src="https://camo.githubusercontent.com/7f08673c1a1e8adeefe7e7f8ca0571259418c4320cf821c95c93b0980d99ec87/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f36343070782d49534f5f432532422532425f4c6f676f2e7376672e706e67" alt="C++"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="https://camo.githubusercontent.com/46543f4b98b4279612e9e7b9e58eb8aeca4f384e342100e1a59009ec0a730d0b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3630302f302a377a4d6963772d4666546843624e33352e706e67" alt="OOP"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="https://camo.githubusercontent.com/4039c860bf72a8d84aefdc87a57ed5b295d676b1411a6843518f2e06d6341594/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f343030302f302a6270743368646e3871365877344d4f5a2e706e67" alt="JAVA"  width="150px" height="100px">
-    </td>
-     <td align='center'>
-        <img src="https://camo.githubusercontent.com/46fb6f1f047a283e22facb71679877bd399e48486872aa26a2d65d708a2444c4/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e65313937313665366434396438623339356262343334333235363934353362383f72696b3d52456f334c71344861337a526d41267069643d496d6752617726723d30" alt="Data Structure & Algorithms"  width="150px" height="100px">
-    </td>
-</tr>
-
 </table>
 
 <br />
