@@ -122,28 +122,11 @@
 | [**Learn-Data-Science-in-3-months**](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months)          | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Data-Science-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/issues)           | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Learn-Data-Science-in-3-months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/pulls)          | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn-Data-Science-in-3-months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/pulls?q=is%3Apr+is%3Aclosed)         |
 | [**Learn_Machine_Learning_in_5_Months**](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/) | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/-Learn_Machine_Learning_in_5_Months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/-Learn_Machine_Learning_in_5_Months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/-Learn_Machine_Learning_in_5_Months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn_Machine_Learning_in_5_Months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/pulls?q=is%3Apr+is%3Aclosed) |
 
-<!--   ## Consistency👨‍💻
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abaidullahbhatti&" alt="Abaidullah Bhatti" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p>  -->
-
-## Learn with Ahmad Jajja :mailbox_with_mail:
-
-| BOOTCAMPS & SESSIONS :tv:                                                          |
-| :--------------------------------------------------------------------------------- |
-| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current) |
-| [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed) |
-| [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current) |
-| [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed) |
-| [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed) |
-| [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed) |
-| [Frontend_Mobile_Development_1.0](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
-
 
   <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-<a href="https://github.com/Ahmadjajja">
+<a href="https://github.com/abaidullah-bhatti">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahmadjajja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmadjajja&layout=compact&langs_count=8&theme=algolia"/>
 </a>
