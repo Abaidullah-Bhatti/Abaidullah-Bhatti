@@ -135,17 +135,6 @@
 </p>
 
 <!-- 
-<p><img align="left"  /></p>
-
-<p>&nbsp;<img align="center"  /></p>
-
-<p><img align="center" src=" /></p>
-
-
-
-
-
-
 # Github Contributions
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
