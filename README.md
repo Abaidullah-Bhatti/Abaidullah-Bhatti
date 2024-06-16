@@ -42,7 +42,7 @@
         <img src="https://logos-world.net/wp-content/uploads/2023/08/React-Symbol.png" alt="React-Js"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://www.visual-craft.com/static/86b4a37121c83372d45b5f4878caccf1/e018d/React_Native_2_c5ab49be9b.png" alt="React-Native"  width="150px" height="100px">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/1*glkosslpqhOOrGyEqjlYdw.png" alt="React-Native"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://solidstudio.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Flofvu8al%2Fproduction%2F915aa873ca2e568f347fd579430ef38dd18cd8f3-420x308.png&w=1080&q=75" alt="Node-Js"  width="150px" height="100px">
