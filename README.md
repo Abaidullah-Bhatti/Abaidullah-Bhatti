@@ -1,4 +1,4 @@
-# Hi 👋, I'm I'm Abaidullah Bhatti.
+# Hi 👋, I'm Abaidullah Bhatti.
 
 ## I'm a Web & Mobile Application Developer and SEO Expert.
 ![Alt Text](https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif)
