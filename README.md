@@ -16,7 +16,7 @@
 <table width="100">
 <tr>
      <td align='center'>
-        <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/HTML5-900x0.jpg" alt="HTML"  width="150px" height="100px">
+        <img src="]https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5-thumbnail.png" alt="HTML"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://th.bing.com/th/id/OIP.fKtEA6VSuCPh0nCy2VTnZQHaE8?pid=ImgDet&rs=1" alt="CSS"  width="150px" height="100px">
