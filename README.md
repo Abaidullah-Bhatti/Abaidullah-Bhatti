@@ -126,11 +126,11 @@
   <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-	<a href="https://github.com/abaidullah-bhatti">
+	<a href="https://github.com/Abaidullah-Bhatti">
   		<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=abaidullah-bhatti&show_icons=true&locale=en&theme=algolia" alt="abaidullah-bhatti" />
   		<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abaidullah-bhatti&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abaidullah-bhatti" />
 	</a>
-  	<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abaidullah-bhatti&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="abaidullah-bhatti" />
+  	<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abaidullah-Bhatti&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="abaidullah-bhatti" />
 </p>
 </p>
 
