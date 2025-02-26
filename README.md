@@ -56,10 +56,10 @@
         <img src="https://files.readme.io/86176b7-vuejs.png" alt="Vue-Js" width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png" alt="Express-Js"  width="150px" height="100px">
+        <img src="https://media.licdn.com/dms/image/v2/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=4jKdvoBWv587Ek7xruyjjOaKoMjvAKw3eAN4MKlJZPc" alt="Express-Js"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/electronjs_logo_icon_169208.png" alt="Electron-Js"  width="150px" height="100px">
+        <img src="https://static-00.iconduck.com/assets.00/electron-icon-1889x2048-istwe9sw.png" alt="Electron-Js"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="Next-Js"  width="150px" height="100px">
@@ -67,7 +67,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YCJxZP4V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/tteuu4xw5tomxb7l0xjx.png" alt="Python"  width="150px" height="100px">
+        <img src=https://img3.wallspic.com/crops/0/9/2/3/6/163290/163290-python_logo-python-icon-programming_language-logo-3840x2160.png" alt="Python"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++"  width="150px" height="100px">
