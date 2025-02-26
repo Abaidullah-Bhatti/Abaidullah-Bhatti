@@ -16,7 +16,7 @@
 <table width="100">
 <tr>
      <td align='center'>
-        <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5-thumbnail.png" alt="HTML"  width="150px" height="100px">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wl2XZnNL5oTS_TSbsCiP_31dYtApXMMrXg&s" alt="HTML"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://th.bing.com/th/id/OIP.fKtEA6VSuCPh0nCy2VTnZQHaE8?pid=ImgDet&rs=1" alt="CSS"  width="150px" height="100px">
@@ -33,7 +33,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="Javascript"  width="150px" height="100px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="Javascript"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://miro.medium.com/v2/resize:fit:1200/0*OJAUWZoGbVq--rNd.png" alt="TypeScript"  width="150px" height="100px">
