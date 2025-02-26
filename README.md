@@ -67,7 +67,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src=https://img3.wallspic.com/crops/0/9/2/3/6/163290/163290-python_logo-python-icon-programming_language-logo-3840x2160.png" alt="Python"  width="150px" height="100px">
+        <img src="https://img3.wallspic.com/crops/0/9/2/3/6/163290/163290-python_logo-python-icon-programming_language-logo-3840x2160.png" alt="Python"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++"  width="150px" height="100px">
